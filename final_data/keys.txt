@@ -1,0 +1,40 @@
+protein_keys=
+{
+	0: 'NSP1',
+	1: 'NSP2',
+	2: 'NSP3',
+	3: 'NSP4',
+	4: 'NSP5',
+	5: 'NSP6',
+	6: 'NSP7',
+	7: 'NSP8',
+	8: 'NSP9',
+	9: 'NSP10',
+	10: 'NSP11',
+	11: 'NSP12',
+	12: 'NSP13',
+	13: 'NSP14',
+	14: 'NSP15',
+	15: 'NSP16',
+	16: 'Spike',
+	17: 'NS3',
+	18: 'E',
+	19: 'M',
+	20: 'NS6',
+	21: 'NS7a',	
+	22: 'NS7b',
+	23: 'NS8',
+	24: 'N'
+}	
+
+clade_keys=
+
+{
+	0: 'Clade_V'
+	1: 'Clade_GH'
+	2: 'Clade_GR'
+	3: 'Clade_G'
+	4: 'Clade_O'
+	5: 'Clade_L'
+	6: 'Clade_S'
+}
